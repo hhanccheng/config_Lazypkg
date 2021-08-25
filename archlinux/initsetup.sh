@@ -1,6 +1,5 @@
 #! /bin/bash
 #yay
-cd /opt
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
