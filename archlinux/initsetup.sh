@@ -9,4 +9,3 @@ makepkg -si
 pacman -S xf86-input-synaptics
 cp 70-synaptics.conf /etc/X11/xorg.conf.d/
 
-#
