@@ -1,0 +1,4 @@
+Aug 26 11:37 : exception: Failed to access /home/nahoca/Music: No such file or directory
+Aug 26 11:53 : exception: Failed to commit /home/nahoca/.config/mpd/state: File exists
+Aug 26 13:41 : player: played "http://streaming.radio.funradio.fr:80/fun-1-44-128"
+Aug 26 14:25 : exception: Failed to commit /home/nahoca/.config/mpd/state: File exists
